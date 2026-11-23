@@ -106,3 +106,5 @@ LLNL-CODE-811652
 [Community]: #community
 [Packaging Guide]: https://spack.readthedocs.io/en/latest/packaging_guide_creation.html
 [Spack]: https://github.com/spack/spack
+[Spack]: https://github.com/spack/spack
+https://github.com/spack/spack
